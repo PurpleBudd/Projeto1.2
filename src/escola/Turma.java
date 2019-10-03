@@ -6,7 +6,7 @@ import java.util.List;
 public class Turma {
     
     private String nomeTurma;
-    private List<Alunos> Array= new ArrayList<Alunos>();
+    private List<Alunos> Array= new ArrayList<>();
 
     public String getNomeTurma() {
         return nomeTurma;
